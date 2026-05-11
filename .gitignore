@@ -1,3 +1,8 @@
 CLAUDE.md
-.env.example
-requirements.txt
+.env
+*.parquet
+logs/
+data/datasets/
+__pycache__/
+*.pyc
+.DS_Store
