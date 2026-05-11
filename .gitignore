@@ -2,7 +2,9 @@ CLAUDE.md
 .env
 *.parquet
 logs/
+datasets/
 data/datasets/
+venv/
 __pycache__/
 *.pyc
 .DS_Store

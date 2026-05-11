@@ -92,14 +92,16 @@ def collect_ticker(ticker: str, max_filings: int = 10) -> pd.DataFrame:
     filings = filings.head(max_filings)
     filings.to_parquet(save_ticker_dir / "filings.parquet", index=False)
 
-    # 희석 위험 관련 공시(S-3, S-8) + 중요 이벤트(8-K) 원문 저장
+    # 희석 위험 관련 공시(S-3, S-8) + 중요 이벤트(8-K) 원문 → 클리닝 후 저장
+    from data.processors.sec_cleaner import clean_sec_html
     priority = filings[filings["form"].isin({"8-K", "S-3", "S-8"})]
     for _, row in priority.iterrows():
         time.sleep(SEC_RATE_LIMIT)
         text = download_filing_text(cik, row["accessionNumber"], row["primaryDocument"])
         if text:
+            cleaned = clean_sec_html(text)
             fname = f"{row['filingDate']}_{row['form'].replace(' ','_')}.txt"
-            (save_ticker_dir / fname).write_text(text[:50000], encoding="utf-8")  # 앞 50KB만
+            (save_ticker_dir / fname).write_text(cleaned[:30000], encoding="utf-8")
 
     logger.info(f"{ticker}: {len(filings)}개 공시 수집 완료")
     time.sleep(SEC_RATE_LIMIT)

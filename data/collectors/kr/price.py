@@ -29,7 +29,13 @@ def download_ticker(ticker: str) -> pd.DataFrame | None:
         if df.empty:
             return None
         df.index.name = "date"
-        df.columns = ["open", "high", "low", "close", "volume", "trading_value", "price_change_pct"]
+        # pykrx 버전에 따라 컬럼 수 다를 수 있어 동적으로 매핑
+        col_map = {
+            "시가": "open", "고가": "high", "저가": "low",
+            "종가": "close", "거래량": "volume",
+            "거래대금": "trading_value", "등락률": "price_change_pct"
+        }
+        df = df.rename(columns=col_map)
         return df
     except Exception as e:
         logger.warning(f"{ticker} 가격 실패: {e}")

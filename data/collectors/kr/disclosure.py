@@ -7,7 +7,7 @@ sys.path.insert(0, str(Path(__file__).parents[3]))
 수시공시 + 정기공시 (주요사항보고서, 사업보고서 등)
 """
 import time
-import OpenDartReader as dart_reader
+import opendartreader as dart_reader
 import pandas as pd
 from pathlib import Path
 from loguru import logger
