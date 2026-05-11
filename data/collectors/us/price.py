@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parents[3]))
+
 """
 미국 주식 가격·거래량 수집 (yfinance)
 일봉 기준, 전체 유니버스 대상

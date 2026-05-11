@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parents[3]))
+
 """
 한국 주식 공시 수집 (DART API)
 수시공시 + 정기공시 (주요사항보고서, 사업보고서 등)

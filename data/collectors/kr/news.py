@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parents[3]))
+
 """
 한국 주식 뉴스 수집 (네이버 금융 크롤링)
 종목별 최근 뉴스 제목 + 요약

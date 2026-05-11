@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parents[3]))
+
 """
 미국 주식 재무제표 수집 (yfinance)
 PBR, PSR, ROE, 매출 성장률 등 텐버거 핵심 지표 계산

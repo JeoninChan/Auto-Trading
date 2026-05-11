@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parents[3]))
+
 """
 SEC EDGAR 공시 수집 (10-K, 10-Q, 8-K, S-3, S-8)
 희석 위험(dilution risk) 포함
