@@ -7,7 +7,7 @@ sys.path.insert(0, str(Path(__file__).parents[3]))
 PBR, PSR, ROE 등 텐버거 핵심 지표
 """
 import time
-import OpenDartReader as dart_reader
+import opendartreader as dart_reader
 import pandas as pd
 from pathlib import Path
 from loguru import logger

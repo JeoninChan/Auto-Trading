@@ -4,7 +4,7 @@
 pykrx                  # 한국 주식 가격·거래량
 yfinance               # 미국 주식 가격·재무
 finance-datareader     # 한국·미국 보조 데이터
-OpenDartReader         # DART 재무제표·공시
+opendartreader         # DART 재무제표·공시
 feedparser             # RSS 뉴스 파싱
 beautifulsoup4         # 네이버 뉴스 크롤링
 requests               # HTTP / SEC EDGAR API
