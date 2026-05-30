@@ -8,4 +8,5 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-screener/ouput
+screener/ouput/
+screener z-score/ouput/
