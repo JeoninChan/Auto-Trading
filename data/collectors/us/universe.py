@@ -1,39 +1,46 @@
-"""
-미국 주식 유니버스 관리
-SEC EDGAR에서 전체 상장 종목 목록 수집
-"""
-import time
 import requests
 import pandas as pd
 from pathlib import Path
 from loguru import logger
 
-EDGAR_URL = "https://www.sec.gov/files/company_tickers.json"
-HEADERS   = {"User-Agent": "AutoTrading contact@autotrading.com"}
+URL       = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqtraded.txt"
+HEADERS   = {"User-Agent": "stock-research-bot hideinthecodes@gmail.com"}
 SAVE_PATH = Path(__file__).parents[3] / "datasets" / "us" / "universe.parquet"
 
 
 def fetch() -> pd.DataFrame:
-    logger.info("SEC EDGAR 전체 종목 목록 다운로드...")
-    resp = requests.get(EDGAR_URL, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
-
-    df = pd.DataFrame.from_dict(resp.json(), orient="index")
-    df.columns = ["cik", "ticker", "company"]
-    df["ticker"] = df["ticker"].str.upper().str.strip()
+    logger.info("NASDAQ Trader 종목 목록 다운로드...")
+    r = requests.get(URL, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    from io import StringIO
+    df = pd.read_csv(StringIO(r.text), sep="|")
+    df = df[:-1]  # 마지막 행 파일 생성일 메타 제거
     logger.info(f"{len(df):,}개 수신")
     return df
 
 
 def get_universe(save: bool = True) -> pd.DataFrame:
-    """
-    텐버거 탐색용 유니버스
-    - 점(.) 또는 하이픈(-) 포함 티커 제외 (OTC, 우선주 등)
-    """
     df = fetch()
-    df = df[~df["ticker"].str.contains(r"[.\-]", regex=True)]
-    df = df.reset_index(drop=True)
-    logger.info(f"OTC 제외 후 {len(df):,}개")
+
+    # ETF·테스트 종목 제외, 실제 주식만
+    df = df[(df["ETF"] == "N") & (df["Test Issue"] == "N")]
+
+    # 점·하이픈·특수문자 포함 티커 제외
+    df = df[~df["Symbol"].str.contains(r"[.\-+^$]", regex=True, na=True)]
+
+    # Rights / Units / Warrants / Depositary / SPAC 제외
+    _exclude = (
+        "- Rights|- Units|- Warrant|Depositary Share|"
+        "Acquisition Corp|Acquisition Inc|Blank Check|"
+        "- Class A Ordinary|- Class B Ordinary"
+    )
+    df = df[~df["Security Name"].str.contains(_exclude, case=False, na=False, regex=True)]
+
+    df = df[["Symbol", "Security Name"]].rename(
+        columns={"Symbol": "ticker", "Security Name": "company"}
+    ).reset_index(drop=True)
+
+    logger.info(f"실제 상장 회사: {len(df):,}개")
 
     if save:
         SAVE_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -51,5 +58,5 @@ def load_universe() -> pd.DataFrame:
 
 if __name__ == "__main__":
     df = get_universe()
-    print(df.head())
+    print(df.head(10))
     print(f"\n총 {len(df):,}개 종목")
