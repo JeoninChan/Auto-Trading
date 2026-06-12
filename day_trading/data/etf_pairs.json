@@ -1,0 +1,119 @@
+[
+  {
+    "underlying": "NVDA",
+    "long_lev": "NVDL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "NVDS"
+  },
+  {
+    "underlying": "TSLA",
+    "long_lev": "TSLL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "TSLS"
+  },
+  {
+    "underlying": "AAPL",
+    "long_lev": "AAPU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "AAPD"
+  },
+  {
+    "underlying": "AMZN",
+    "long_lev": "AMZU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "AMZD"
+  },
+  {
+    "underlying": "GOOGL",
+    "long_lev": "GGLL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "GGLS"
+  },
+  {
+    "underlying": "META",
+    "long_lev": "METU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "METD"
+  },
+  {
+    "underlying": "MSFT",
+    "long_lev": "MSFO",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "MSFD"
+  },
+  {
+    "underlying": "COIN",
+    "long_lev": "CONL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": null
+  },
+  {
+    "underlying": "MSTR",
+    "long_lev": "MSTU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": null
+  },
+  {
+    "underlying": "AMD",
+    "long_lev": "AMDU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "AMDD"
+  },
+  {
+    "underlying": "NFLX",
+    "long_lev": "NFXL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "NFXS"
+  },
+  {
+    "underlying": "PLTR",
+    "long_lev": "PLTU",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": "PLTD"
+  },
+  {
+    "underlying": "RDDT",
+    "long_lev": "RDTL",
+    "long_lev_mult": 2,
+    "long_1x": null,
+    "short_lev": null,
+    "short_lev_mult": null,
+    "short_1x": null
+  }
+]

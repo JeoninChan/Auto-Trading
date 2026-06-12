@@ -1,0 +1,1160 @@
+[
+  {
+    "timestamp": "2026-06-08T20:46:11.181475",
+    "count": 192,
+    "signals": [
+      {
+        "ticker": "AGRZ",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BRFH",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CPHI",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "DTST",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "GCL",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "IVDA",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KXIN",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NTHI",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RECT",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "REVB",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TISI",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "YDES",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 16:30:00+00:00"
+      },
+      {
+        "ticker": "ZSTK",
+        "proba": 0.376,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 13:30:00+00:00"
+      },
+      {
+        "ticker": "AIDX",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AIRT",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 14:30:00+00:00"
+      },
+      {
+        "ticker": "BVC",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 17:30:00+00:00"
+      },
+      {
+        "ticker": "CLGN",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "EFOI",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "EXOZ",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "FLD",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FMST",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KWM",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "LCFY",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 16:30:00+00:00"
+      },
+      {
+        "ticker": "LSH",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OGCP",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-03 13:30:00+00:00"
+      },
+      {
+        "ticker": "SHFS",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SLSN",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TOPP",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "XXII",
+        "proba": 0.3663,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ATPC",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AXR",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CKX",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 16:30:00+00:00"
+      },
+      {
+        "ticker": "GVH",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "GWAV",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 15:30:00+00:00"
+      },
+      {
+        "ticker": "MKDW",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NCRA",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NYC",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OXBR",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "QH",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "QRHC",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "REED",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "VRM",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "YHGJ",
+        "proba": 0.3629,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "ADCT",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AIOS",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 14:30:00+00:00"
+      },
+      {
+        "ticker": "CLIR",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "CYPH",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "IMDX",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "LUCY",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SNSE",
+        "proba": 0.3589,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CSAI",
+        "proba": 0.3578,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "POET",
+        "proba": 0.3578,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BCDA",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MRLN",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RMSG",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SBEV",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SDOT",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SPHL",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "XOS",
+        "proba": 0.3574,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AEC",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ANDG",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ATXG",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BDMD",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BGI",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BIOA",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BIOX",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BIYA",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BLIV",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-04 19:30:00+00:00"
+      },
+      {
+        "ticker": "CAST",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CRDO",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CVM",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CVR",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "DRCT",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FIEE",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FISK",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-05-26 19:30:00+00:00"
+      },
+      {
+        "ticker": "HBB",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "IPM",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KELYB",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 17:30:00+00:00"
+      },
+      {
+        "ticker": "MBIO",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MMLP",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MSAI",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MU",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "PLSM",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 16:30:00+00:00"
+      },
+      {
+        "ticker": "ROC",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SACH",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SCKT",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SONM",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SRL",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-05-12 13:30:00+00:00"
+      },
+      {
+        "ticker": "TBH",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TCRT",
+        "proba": 0.3568,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BWEN",
+        "proba": 0.3562,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "POAS",
+        "proba": 0.3562,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SOWG",
+        "proba": 0.3562,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MRAM",
+        "proba": 0.3559,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FTLF",
+        "proba": 0.3556,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SPPL",
+        "proba": 0.3556,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TXMD",
+        "proba": 0.3556,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "WVVI",
+        "proba": 0.3556,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FABC",
+        "proba": 0.3548,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OPTU",
+        "proba": 0.3547,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ALDX",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CELZ",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CLPS",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "IOTR",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KTTA",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MBRX",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MWG",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NWL",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OSRH",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "PPSI",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RAY",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "RVSN",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SUIG",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "VSTD",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "XRTX",
+        "proba": 0.3545,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CMT",
+        "proba": 0.3543,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RGS",
+        "proba": 0.3543,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AMAT",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ASPS",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "CRVO",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FURY",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ITRG",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KBSX",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-04 18:30:00+00:00"
+      },
+      {
+        "ticker": "MCHP",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NEPH",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "PGEN",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SNWV",
+        "proba": 0.354,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BUDA",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CHAI",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "DAIC",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FCEL",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "GCDT",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ICCM",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "INTG",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "JZXN",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MPU",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MRVL",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "PDSB",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "PPCB",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "QTRX",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RTB",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RYET",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SPTX",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SSM",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 18:30:00+00:00"
+      },
+      {
+        "ticker": "TMCR",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TROO",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TULP",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 16:30:00+00:00"
+      },
+      {
+        "ticker": "UONEK",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "XCUR",
+        "proba": 0.3525,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 17:30:00+00:00"
+      },
+      {
+        "ticker": "GPUS",
+        "proba": 0.3517,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BJDX",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BNAI",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "DEVS",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KNRX",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "MTVA",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NTRP",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OBAI",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "PYXS",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "QTTB",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RNAZ",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "RYOJ",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SMTK",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TOI",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "TVGN",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "XTNT",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "YXT",
+        "proba": 0.351,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CELU",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CNET",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 17:30:00+00:00"
+      },
+      {
+        "ticker": "CURX",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "EUDA",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "FLNT",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "GDEV",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "LIVE",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 17:30:00+00:00"
+      },
+      {
+        "ticker": "PSNYW",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "WFCF",
+        "proba": 0.3507,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "AEMD",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "ASTI",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "BOXL",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CATX",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CDTG",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CMCO",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "CRNT",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "DOMO",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "EVGO",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "GSIT",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "KLXE",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "LTBR",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "NB",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "OPTX",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SES",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SPRU",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      },
+      {
+        "ticker": "SVRN",
+        "proba": 0.3501,
+        "signal": "BUY",
+        "bar_time": "2026-06-05 19:30:00+00:00"
+      }
+    ]
+  }
+]

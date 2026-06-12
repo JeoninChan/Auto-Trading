@@ -1,0 +1,2298 @@
+EDGAR 공시 스캔 결과
+스캔 기간: 2026-06-04 ~ 2026-06-05
+생성일시: 2026-06-05 15:08
+======================================================================
+총 1083건 | 섹터 38개
+======================================================================
+
+[반도체] 20건
+--------------------------------------------------
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    ------  TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD
+                          └ Hsinchu
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  Rumble Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    NVTS    Navitas Semiconductor Corp
+                          └ Torrance, CA
+  2026-06-04  8-K    EXE     EXPAND ENERGY Corp
+                          └ Spring, TX
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+
+[AI인프라] 28건
+--------------------------------------------------
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    ZSQR    Z Squared Inc.
+                          └ Fort Lauderdale, FL
+  2026-06-04  8-K    IPW     iPower Inc.
+                          └ Rancho Cucamonga, CA
+  2026-06-04  6-K    SUUN    POWERBANK Corp
+                          └ Toronto
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    IPW     iPower Inc.
+                          └ Rancho Cucamonga, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  6-K    ------  K Wave Media Ltd.
+                          └ Grand Cayman
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    BBCP    Concrete Pumping Holdings, Inc.
+                          └ Thornton, CO
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    ------  Rumble Inc.
+                          └ New York, NY
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    AGX     ARGAN INC
+                          └ Arlington, VA
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+
+[클라우드SaaS] 40건
+--------------------------------------------------
+  2026-06-04  8-K    RBRK    Rubrik, Inc.
+                          └ Palo Alto, CA
+  2026-06-04  8-K    GWRE    Guidewire Software, Inc.
+                          └ San Mateo, CA
+  2026-06-04  8-K    IOT     Samsara Inc.
+                          └ San Francisco, CA
+  2026-06-04  8-K    DOCU    DOCUSIGN, INC.
+                          └ San Francisco, CA
+  2026-06-04  8-K    TTAN    ServiceTitan, Inc.
+                          └ Glendale, CA
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    ------  ConnectM Technology Solutions, Inc.
+                          └ Marlborough, MA
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  8-K    ------  ConnectM Technology Solutions, Inc.
+                          └ Marlborough, MA
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  6-K    ------  Kingsoft Cloud Holdings Ltd
+                          └ Haidian District, Beijing
+  2026-06-04  6-K    SANG    Sangoma Technologies Corp
+                          └ Markham, A6
+  2026-06-04  8-K    ------  Rumble Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ALIT    Alight, Inc. / Delaware
+                          └ Chicago, IL
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    CLMB    Climb Global Solutions, Inc.
+                          └ Eatontown, NJ
+  2026-06-04  8-K    CHRN    ChronoScale Corp
+                          └ Dallas, TX
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  6-K    ------  Kingsoft Cloud Holdings Ltd
+                          └ Haidian District, Beijing
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  6-K    YI      111, Inc.
+                          └ Shanghai
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+
+[사이버보안] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[로보틱스] 20건
+--------------------------------------------------
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    CMCO    COLUMBUS MCKINNON CORP
+                          └ Charlotte, NC
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  8-K    RMSL    RemSleep Holdings Inc.
+                          └ Clearwater, FL
+  2026-06-04  8-K    DOCU    DOCUSIGN, INC.
+                          └ San Francisco, CA
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+
+[5G통신] 15건
+--------------------------------------------------
+  2026-06-04  8-K    ------  ConnectM Technology Solutions, Inc.
+                          └ Marlborough, MA
+  2026-06-04  6-K    ------  Wearable Devices Ltd.
+                          └ Yokne'am Illit, L3
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  6-K    ------  GRUPO TELEVISA, S.A.B.
+                          └ Mexico, D.f.
+  2026-06-04  8-K    ------  VEEA INC.
+                          └ New York, NY
+  2026-06-04  6-K    SPRC    SciSparc Ltd.
+                          └ Tel Aviv, L3
+  2026-06-04  8-K    AIM     AIM ImmunoTech Inc.
+                          └ Ocala, FL
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  8-K    CGTX    COGNITION THERAPEUTICS INC
+                          └ Purchase, NY
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+
+[원자력] 14건
+--------------------------------------------------
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    SMTI    Sanara MedTech Inc.
+                          └ Fort Worth, TX
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  8-K    CRSP    CRISPR Therapeutics AG
+                          └ Zug
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+
+[신재생에너지] 25건
+--------------------------------------------------
+  2026-06-04  6-K    SUUN    POWERBANK Corp
+                          └ Toronto
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    AGGI    BILI Social International, Inc.
+                          └ Newark, NJ
+  2026-06-04  8-K    AGX     ARGAN INC
+                          └ Arlington, VA
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    NX      Quanex Building Products CORP
+                          └ Houston, TX
+  2026-06-04  8-K    CHRN    ChronoScale Corp
+                          └ Dallas, TX
+  2026-06-04  6-K    WFG     WEST FRASER TIMBER CO., LTD
+                          └ Vancouver, A1
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+
+[수소] 7건
+--------------------------------------------------
+  2026-06-04  6-K    BLDP    Ballard Power Systems Inc.
+                          └ Burnaby
+  2026-06-04  8-K    ------  Aimei Health Technology Co., Ltd.
+                          └ New York, NY
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  8-K    ------  Aimei Health Technology Co., Ltd.
+                          └ New York, NY
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+
+[석유가스] 73건
+--------------------------------------------------
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    ELBM    Electra Battery Materials Corp
+                          └ Toronto
+  2026-06-04  6-K    YI      111, Inc.
+                          └ Shanghai
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    MXC     MEXCO ENERGY CORP
+                          └ Midland, TX
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    ------  VEEA INC.
+                          └ New York, NY
+  2026-06-04  8-K    AGX     ARGAN INC
+                          └ Arlington, VA
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  8-K    ------  Activate Energy Acquisition Corp.
+                          └ Grand Cayman
+  2026-06-04  8-K    ------  BROWN FORMAN CORP
+                          └ Louisville, KY
+  2026-06-04  6-K    GMTL    Guardian Metal Resources PLC
+                          └ London, X0
+  2026-06-04  6-K    SUUN    POWERBANK Corp
+                          └ Toronto
+  2026-06-04  8-K    MIRA    MIRA PHARMACEUTICALS, INC.
+                          └ Miami, FL
+  2026-06-04  8-K    QNRX    Quoin Pharmaceuticals, Ltd.
+                          └ Kfar Saba
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  8-K    SNDX    Syndax Pharmaceuticals Inc
+                          └ New York, NY
+  2026-06-04  8-K    KAPA    Kairos Pharma, LTD.
+                          └ Los Angeles, CA
+  2026-06-04  6-K    ------  Alvotech
+                          └ Luxembourg, N4
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  6-K    ------  Murano Global Investments Plc
+                          └ London, X0
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    GWRE    Guidewire Software, Inc.
+                          └ San Mateo, CA
+  2026-06-04  8-K    TPST    Tempest Therapeutics, Inc.
+                          └ Brisbane, CA
+  2026-06-04  6-K    ------  TRANSALTA CORP
+                          └ Calgary, A0
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ZSQR    Z Squared Inc.
+                          └ Fort Lauderdale, FL
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    LPCN    Lipocine Inc.
+                          └ Salt Lake City, X1
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  6-K    ------  TRANSALTA CORP
+                          └ Calgary, A0
+  2026-06-04  6-K    SPRC    SciSparc Ltd.
+                          └ Tel Aviv, L3
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  LanzaTech Global, Inc.
+                          └ Skokie, IL
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+
+[금속광물] 30건
+--------------------------------------------------
+  2026-06-04  6-K    ELBM    Electra Battery Materials Corp
+                          └ Toronto
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  6-K    HTOO    Fusion Fuel Green PLC
+                          └ Dublin
+  2026-06-04  8-K    USAR    USA Rare Earth, Inc.
+                          └ Stillwater, OK
+  2026-06-04  6-K    WRN     Western Copper & Gold Corp
+                          └ Vancouver
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    WAMFF   Alaska Silver Corp.
+                          └ Tucson, AZ
+  2026-06-04  6-K    WRN     Western Copper & Gold Corp
+                          └ Vancouver
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    ZSQR    Z Squared Inc.
+                          └ Fort Lauderdale, FL
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    GMTL    Guardian Metal Resources PLC
+                          └ London, X0
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+
+[금/귀금속] 17건
+--------------------------------------------------
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  6-K    WRN     Western Copper & Gold Corp
+                          └ Vancouver
+  2026-06-04  8-K    WAMFF   Alaska Silver Corp.
+                          └ Tucson, AZ
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  8-K    WAMFF   Alaska Silver Corp.
+                          └ Tucson, AZ
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  6-K    CLIK    Click Holdings Ltd.
+                          └ Tsim Sha Tsui, Kowloon, K3
+  2026-06-04  6-K    SA      SEABRIDGE GOLD INC
+                          └ Toronto, A6
+  2026-06-04  6-K    SA      SEABRIDGE GOLD INC
+                          └ Toronto, A6
+  2026-06-04  6-K    SA      SEABRIDGE GOLD INC
+                          └ Toronto, A6
+  2026-06-04  6-K    WRN     Western Copper & Gold Corp
+                          └ Vancouver
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+
+[농업/식량] 5건
+--------------------------------------------------
+  2026-06-04  8-K    PYYX    PYXUS INTERNATIONAL, INC.
+                          └ Morrisville, NC
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    ZYBT    Zhengye Biotechnology Holding Ltd
+                          └ Jilin
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+
+[수자원] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[바이오] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[제약] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[헬스케어] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[의료기기] 8건
+--------------------------------------------------
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    IQV     IQVIA HOLDINGS INC.
+                          └ Durham, NC
+  2026-06-04  6-K    NYXH    Nyxoah SA
+                          └ Mont-saint-guibert
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  8-K    SSII    SS Innovations International, Inc.
+                          └ Gurugram
+  2026-06-04  6-K    PHAR    Pharming Group N.V.
+                          └ Leiden, P7
+  2026-06-04  6-K/A  RGNT    REGENTIS BIOMATERIALS LTD.
+                          └ Or Akiva
+
+[소비재] 50건
+--------------------------------------------------
+  2026-06-04  8-K    CURV    Torrid Holdings Inc.
+                          └ City of Industry, CA
+  2026-06-04  8-K    RMSL    RemSleep Holdings Inc.
+                          └ Clearwater, FL
+  2026-06-04  8-K    CAL     CALERES INC
+                          └ St Louis, MO
+  2026-06-04  8-K    LULU    lululemon athletica inc.
+                          └ Vancouver, A1
+  2026-06-04  8-K    AVY     Avery Dennison Corp
+                          └ Mentor, OH
+  2026-06-04  8-K    ------  BROWN FORMAN CORP
+                          └ Louisville, KY
+  2026-06-04  6-K    GLBE    Global-E Online Ltd.
+                          └ Petah, L3
+  2026-06-04  8-K    USBC    USBC, Inc.
+                          └ Reno, NV
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  6-K    IZM     ICZOOM Group Inc.
+                          └ Shenzhen, Guangdong, F4
+  2026-06-04  8-K    ORBS    Eightco Holdings Inc.
+                          └ Easton, PA
+  2026-06-04  8-K    IPW     iPower Inc.
+                          └ Rancho Cucamonga, CA
+  2026-06-04  8-K    ------  ExchangeRight Income Fund
+                          └ Pasadena, CA
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    SMID    SMITH MIDLAND CORP
+                          └ Midland, VA
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    WDFC    WD 40 CO
+                          └ San Diego, CA
+  2026-06-04  8-K    ARCB    ARCBEST CORP /DE/
+                          └ Fort Smith, AR
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  6-K    YI      111, Inc.
+                          └ Shanghai
+  2026-06-04  8-K    ------  JLL Income Property Trust, Inc.
+                          └ Chicago, IL
+  2026-06-04  6-K    VTMX    Vesta Real Estate Corporation, S.A.B. de C.V.
+                          └ Mexico City, O5
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    TTC     TORO CO
+                          └ Bloomington, MN
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    ------  SOUTHERN POWER CO
+                          └ Atlanta, GA
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    SGI     SOMNIGROUP INTERNATIONAL INC.
+                          └ Lexington, KY
+  2026-06-04  8-K    LEG     LEGGETT & PLATT INC
+                          └ Carthage, MO
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  8-K    IOT     Samsara Inc.
+                          └ San Francisco, CA
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  6-K/A  PICS    PicS N.V.
+                          └ Amstelveen
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+
+[리테일/패션] 66건
+--------------------------------------------------
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    ZUMZ    Zumiez Inc
+                          └ Lynnwood, WA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    AVY     Avery Dennison Corp
+                          └ Mentor, OH
+  2026-06-04  8-K    CAL     CALERES INC
+                          └ St Louis, MO
+  2026-06-04  8-K    RMSL    RemSleep Holdings Inc.
+                          └ Clearwater, FL
+  2026-06-04  8-K    LULU    lululemon athletica inc.
+                          └ Vancouver, A1
+  2026-06-04  8-K    CURV    Torrid Holdings Inc.
+                          └ City of Industry, CA
+  2026-06-04  8-K    SNDX    Syndax Pharmaceuticals Inc
+                          └ New York, NY
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  8-K    ------  Greenidge Generation Holdings Inc.
+                          └ Pittsford, NY
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    CNMD    CONMED Corp
+                          └ Largo, FL
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    HGV     Hilton Grand Vacations Inc.
+                          └ Orlando, FL
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    FEMY    FEMASYS INC
+                          └ Suwanee, GA
+  2026-06-04  8-K    ------  BROWN FORMAN CORP
+                          └ Louisville, KY
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    LGCL    Lucas GC Ltd
+                          └ Beijing, F4
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    YI      111, Inc.
+                          └ Shanghai
+  2026-06-04  8-K    ------  JLL Income Property Trust, Inc.
+                          └ Chicago, IL
+  2026-06-04  6-K    VTMX    Vesta Real Estate Corporation, S.A.B. de C.V.
+                          └ Mexico City, O5
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    ------  SOUTHERN POWER CO
+                          └ Atlanta, GA
+  2026-06-04  8-K    USBC    USBC, Inc.
+                          └ Reno, NV
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    SGI     SOMNIGROUP INTERNATIONAL INC.
+                          └ Lexington, KY
+  2026-06-04  8-K    LEG     LEGGETT & PLATT INC
+                          └ Carthage, MO
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    IOT     Samsara Inc.
+                          └ San Francisco, CA
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  6-K/A  PICS    PicS N.V.
+                          └ Amstelveen
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+
+[게임이스포츠] 7건
+--------------------------------------------------
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    ORBS    Eightco Holdings Inc.
+                          └ Easton, PA
+  2026-06-04  6-K    ------  Wearable Devices Ltd.
+                          └ Yokne'am Illit, L3
+  2026-06-04  8-K    ------  Bally's Chicago, Inc.
+                          └ Providence, RI
+
+[미디어엔터] 100건
+--------------------------------------------------
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  6-K    ------  GRUPO TELEVISA, S.A.B.
+                          └ Mexico, D.f.
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  6-K    TLK     PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK
+                          └ Bandung, K8
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    ORBS    Eightco Holdings Inc.
+                          └ Easton, PA
+  2026-06-04  8-K    DOCU    DOCUSIGN, INC.
+                          └ San Francisco, CA
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  6-K    ------  CANADIAN IMPERIAL BANK OF COMMERCE /CAN/
+                          └ Toronto, A6
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    ------  Wearable Devices Ltd.
+                          └ Yokne'am Illit, L3
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    BLDP    Ballard Power Systems Inc.
+                          └ Burnaby
+  2026-06-04  8-K    WBTN    WEBTOON Entertainment Inc.
+                          └ El Segundo, CA
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  6-K    ------  K Wave Media Ltd.
+                          └ Grand Cayman
+  2026-06-04  6-K    ------  K Wave Media Ltd.
+                          └ Grand Cayman
+  2026-06-04  8-K    DRCT    Direct Digital Holdings, Inc.
+                          └ Houston, TX
+  2026-06-04  6-K    ------  Banco Santander, S.A.
+                          └ Madrid, U3
+  2026-06-04  8-K    CURV    Torrid Holdings Inc.
+                          └ City of Industry, CA
+  2026-06-04  8-K/A  NXST    NEXSTAR MEDIA GROUP, INC.
+                          └ Irving, TX
+  2026-06-04  8-K    ------  PPL Corp
+                          └ Allentown, PA
+  2026-06-04  6-K    BAOS    Baosheng Media Group Holdings Ltd
+                          └ Beijing
+  2026-06-04  8-K/A  NXST    NEXSTAR MEDIA GROUP, INC.
+                          └ Irving, TX
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  6-K    BAOS    Baosheng Media Group Holdings Ltd
+                          └ Beijing
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  6-K    ------  BELL CANADA
+                          └ Verdun
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  8-K    ALIT    Alight, Inc. / Delaware
+                          └ Chicago, IL
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  6-K    ------  Alvotech
+                          └ Luxembourg, N4
+  2026-06-04  6-K    WFG     WEST FRASER TIMBER CO., LTD
+                          └ Vancouver, A1
+  2026-06-04  6-K    ------  K Wave Media Ltd.
+                          └ Grand Cayman
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  6-K    BAK     BRASKEM SA
+                          └ Camacari Bahia Brazi
+  2026-06-04  8-K    BLD     TopBuild Corp
+                          └ Daytona Beach, FL
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    ------  QXO, Inc.
+                          └ Greenwich, CT
+  2026-06-04  6-K    BAOS    Baosheng Media Group Holdings Ltd
+                          └ Beijing
+  2026-06-04  8-K/A  NXST    NEXSTAR MEDIA GROUP, INC.
+                          └ Irving, TX
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  8-K    IAC     People Inc
+                          └ New York, NY
+  2026-06-04  6-K    ------  Lloyds Banking Group plc
+                          └ London, X0
+  2026-06-04  6-K    ------  TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD
+                          └ Hsinchu
+  2026-06-04  6-K    ------  Nvni Group Ltd
+                          └ Grand Cayman, E9
+  2026-06-04  6-K    ------  ALTERITY THERAPEUTICS LTD
+                          └ Melbourne
+  2026-06-04  6-K    NU      Nu Holdings Ltd.
+                          └ Sao Paulo, Sp, D5
+  2026-06-04  8-K    ------  Sachem Capital Corp.
+                          └ Branford, CT
+  2026-06-04  8-K    GENC    GENCOR INDUSTRIES INC
+                          └ Orlando, FL
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    ------  LanzaTech Global, Inc.
+                          └ Skokie, IL
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    PFS     PROVIDENT FINANCIAL SERVICES INC
+                          └ Jersey City, NJ
+  2026-06-04  6-K    MICC    Magnum Ice Cream Co N.V.
+                          └ Amsterdam
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    ------  Satellogic Inc.
+                          └ Davidson, NC
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    IOT     Samsara Inc.
+                          └ San Francisco, CA
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    ------  QXO, Inc.
+                          └ Greenwich, CT
+  2026-06-04  8-K    WDFC    WD 40 CO
+                          └ San Diego, CA
+  2026-06-04  8-K    ------  Offerpad Solutions Inc.
+                          └ Tempe, AZ
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    SSII    SS Innovations International, Inc.
+                          └ Gurugram
+  2026-06-04  8-K    ------  ConnectM Technology Solutions, Inc.
+                          └ Marlborough, MA
+  2026-06-04  8-K    AZTR    Azitra, Inc.
+                          └ Branford, CT
+  2026-06-04  8-K    PS      PERSHING SQUARE INC.
+                          └ New York, NY
+  2026-06-04  6-K    PHAR    Pharming Group N.V.
+                          └ Leiden, P7
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    BYSI    BeyondSpring Inc.
+                          └ Florham Park, NJ
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    LULU    lululemon athletica inc.
+                          └ Vancouver, A1
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    LGCL    Lucas GC Ltd
+                          └ Beijing, F4
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  6-K    ------  TRANSALTA CORP
+                          └ Calgary, A0
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  6-K    YI      111, Inc.
+                          └ Shanghai
+  2026-06-04  8-K    GWRE    Guidewire Software, Inc.
+                          └ San Mateo, CA
+
+[여행항공] 51건
+--------------------------------------------------
+  2026-06-04  8-K    ------  BROWN FORMAN CORP
+                          └ Louisville, KY
+  2026-06-04  8-K    DRCT    Direct Digital Holdings, Inc.
+                          └ Houston, TX
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ------  ASHFORD HOSPITALITY TRUST INC
+                          └ Dallas, TX
+  2026-06-04  6-K    ------  Murano Global Investments Plc
+                          └ London, X0
+  2026-06-04  6-K    ------  Murano Global Investments Plc
+                          └ London, X0
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ------  ASHFORD HOSPITALITY TRUST INC
+                          └ Dallas, TX
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    IAC     People Inc
+                          └ New York, NY
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    CURV    Torrid Holdings Inc.
+                          └ City of Industry, CA
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    ------  Bally's Chicago, Inc.
+                          └ Providence, RI
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  6-K    HKIT    HiTek Global Inc.
+                          └ Xiamen, Fujian Province, F4
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    ------  Abacus Global Management, Inc.
+                          └ Orlando, FL
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  NRX Pharmaceuticals, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    JAN     Janus Living, Inc.
+                          └ Denver, CO
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+
+[레저스포츠] 33건
+--------------------------------------------------
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  8-K    TTC     TORO CO
+                          └ Bloomington, MN
+  2026-06-04  8-K    ASO     Academy Sports & Outdoors, Inc.
+                          └ Katy, TX
+  2026-06-04  8-K    PLBY    Playboy, Inc.
+                          └ Los Angeles, CA
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    IAC     People Inc
+                          └ New York, NY
+  2026-06-04  6-K    ------  SMITH & NEPHEW PLC
+                          └ Watford, Hertfordshire
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    ZUMZ    Zumiez Inc
+                          └ Lynnwood, WA
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    MRSH    MARSH & MCLENNAN COMPANIES, INC.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+
+[핀테크] 100건
+--------------------------------------------------
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    ------  GRUPO TELEVISA, S.A.B.
+                          └ Mexico, D.f.
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    DRCT    Direct Digital Holdings, Inc.
+                          └ Houston, TX
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  6-K    ------  CANADIAN IMPERIAL BANK OF COMMERCE /CAN/
+                          └ Toronto, A6
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  HIGHWATER ETHANOL LLC
+                          └ Lamberton, MN
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  6-K/A  PICS    PicS N.V.
+                          └ Amstelveen
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  6-K    SPRC    SciSparc Ltd.
+                          └ Tel Aviv, L3
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    ------  WESBANCO INC
+                          └ Wheeling, WV
+  2026-06-04  8-K    ------  Bally's Chicago, Inc.
+                          └ Providence, RI
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  8-K    CMCO    COLUMBUS MCKINNON CORP
+                          └ Charlotte, NC
+  2026-06-04  8-K    TBH     Brag House Holdings, Inc.
+                          └ Montclair, NJ
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    ------  Aimei Health Technology Co., Ltd.
+                          └ New York, NY
+  2026-06-04  8-K    ------  SOUTHERN POWER CO
+                          └ Atlanta, GA
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    USBC    USBC, Inc.
+                          └ Reno, NV
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    GMED    GLOBUS MEDICAL INC
+                          └ Audubon, PA
+  2026-06-04  8-K    LPCN    Lipocine Inc.
+                          └ Salt Lake City, X1
+  2026-06-04  8-K    CURV    Torrid Holdings Inc.
+                          └ City of Industry, CA
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    MRSH    MARSH & MCLENNAN COMPANIES, INC.
+                          └ New York, NY
+  2026-06-04  8-K    CMCO    COLUMBUS MCKINNON CORP
+                          └ Charlotte, NC
+  2026-06-04  6-K    ------  FAIRFAX FINANCIAL HOLDINGS LTD/ CAN
+                          └ Toronto, A6
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    ------  MSP Recovery, Inc.
+                          └ Miami, FL
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    PTEN    PATTERSON UTI ENERGY INC
+                          └ Houston, TX
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    BMRA    BIOMERICA INC
+                          └ Irvine, CA
+  2026-06-04  6-K    PAYP    PayPay Corp
+                          └ Yotsuya, Shinjuku-ku
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    CLMB    Climb Global Solutions, Inc.
+                          └ Eatontown, NJ
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  6-K    ALM     Almonty Industries Inc.
+                          └ Dillon, MT
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    MYGN    MYRIAD GENETICS INC
+                          └ Salt Lake City, UT
+  2026-06-04  8-K    BBCP    Concrete Pumping Holdings, Inc.
+                          └ Thornton, CO
+  2026-06-04  8-K    CNMD    CONMED Corp
+                          └ Largo, FL
+  2026-06-04  6-K    ------  TRANSALTA CORP
+                          └ Calgary, A0
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    NRDE    NU RIDE INC.
+                          └ New York, NY
+  2026-06-04  8-K    CHRN    ChronoScale Corp
+                          └ Dallas, TX
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    ------  NRX Pharmaceuticals, Inc.
+                          └ Wilmington, DE
+
+[은행금융] 100건
+--------------------------------------------------
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    MRSH    MARSH & MCLENNAN COMPANIES, INC.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K/A  PICS    PicS N.V.
+                          └ Amstelveen
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    NSTS    NSTS Bancorp, Inc.
+                          └ Waukegan, IL
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    BRT     BRT Apartments Corp.
+                          └ Great Neck, NY
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    MRSH    MARSH & MCLENNAN COMPANIES, INC.
+                          └ New York, NY
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    ------  SOUTHERN POWER CO
+                          └ Atlanta, GA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  Sachem Capital Corp.
+                          └ Branford, CT
+  2026-06-04  8-K    ------  JLL Income Property Trust, Inc.
+                          └ Chicago, IL
+  2026-06-04  8-K    ------  WESBANCO INC
+                          └ Wheeling, WV
+  2026-06-04  8-K    JAN     Janus Living, Inc.
+                          └ Denver, CO
+  2026-06-04  8-K    WLTH    WEALTHFRONT CORP
+                          └ Palo Alto, CA
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Atlanta
+                          └ Atlanta, GA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Chicago
+                          └ Chicago, IL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Boston
+                          └ Boston, MA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Dallas
+                          └ Irving, TX
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Des Moines
+                          └ Des Moines, IA
+  2026-06-04  8-K    ------  JLL Income Property Trust, Inc.
+                          └ Chicago, IL
+  2026-06-04  8-K    ------  Federal Home Loan Bank of New York
+                          └ New York, NY
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Pittsburgh
+                          └ Pittsburgh, PA
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Topeka
+                          └ Topeka, KS
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    SNNF    Seneca Bancorp, Inc.
+                          └ Baldwinsville, NY
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    ------  Federal Home Loan Bank of New York
+                          └ New York, NY
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Des Moines
+                          └ Des Moines, IA
+  2026-06-04  8-K    ------  HIGHWATER ETHANOL LLC
+                          └ Lamberton, MN
+  2026-06-04  8-K    ------  Federal Home Loan Bank of Pittsburgh
+                          └ Pittsburgh, PA
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    ------  NRX Pharmaceuticals, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    ------  ExchangeRight Income Fund
+                          └ Pasadena, CA
+  2026-06-04  8-K/A  NXST    NEXSTAR MEDIA GROUP, INC.
+                          └ Irving, TX
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  8-K    CEIN    CAMBER ENERGY, INC.
+                          └ Houston, TX
+  2026-06-04  8-K    RMSL    RemSleep Holdings Inc.
+                          └ Clearwater, FL
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    LPRO    Open Lending Corp
+                          └ Austin, TX
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+
+[블록체인크립토] 13건
+--------------------------------------------------
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    USBC    USBC, Inc.
+                          └ Reno, NV
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    ORBS    Eightco Holdings Inc.
+                          └ Easton, PA
+
+[방산] 100건
+--------------------------------------------------
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  Satellogic Inc.
+                          └ Davidson, NC
+  2026-06-04  8-K    ------  VisionWave Holdings, Inc.
+                          └ West Hollywood, CA
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  8-K    ------  Activate Energy Acquisition Corp.
+                          └ Grand Cayman
+  2026-06-04  8-K    KOPN    KOPIN CORP
+                          └ Westborough, MA
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  6-K    GMTL    Guardian Metal Resources PLC
+                          └ London, X0
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  6-K    BAOS    Baosheng Media Group Holdings Ltd
+                          └ Beijing
+  2026-06-04  8-K    JBIO    Jade Biosciences, Inc.
+                          └ Waltham, MA
+  2026-06-04  8-K    ------  HIGHWATER ETHANOL LLC
+                          └ Lamberton, MN
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  6-K    ALM     Almonty Industries Inc.
+                          └ Dillon, MT
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  VisionWave Holdings, Inc.
+                          └ West Hollywood, CA
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    FATE    FATE THERAPEUTICS INC
+                          └ San Diego, CA
+  2026-06-04  8-K    CTNT    CHEETAH NET SUPPLY CHAIN SERVICE INC.
+                          └ Irvine, CA
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    ------  Fat Brands, Inc
+                          └ Beverly Hills, CA
+  2026-06-04  8-K    LIXT    LIXTE BIOTECHNOLOGY HOLDINGS, INC.
+                          └ Boca Raton, FL
+  2026-06-04  8-K    HCAT    Health Catalyst, Inc.
+                          └ South Jordan, UT
+  2026-06-04  8-K    ------  BROWN FORMAN CORP
+                          └ Louisville, KY
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    ------  WISCONSIN ELECTRIC POWER CO
+                          └ Milwaukee, WI
+  2026-06-04  8-K    IAC     People Inc
+                          └ New York, NY
+  2026-06-04  8-K    ZSQR    Z Squared Inc.
+                          └ Fort Lauderdale, FL
+  2026-06-04  6-K    NYXH    Nyxoah SA
+                          └ Mont-saint-guibert
+  2026-06-04  8-K    ALBT    Avalon GloboCare Corp.
+                          └ Freehold, NJ
+  2026-06-04  6-K    HKIT    HiTek Global Inc.
+                          └ Xiamen, Fujian Province, F4
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    NERV    Minerva Neurosciences, Inc.
+                          └ Burlington, MA
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    CRSP    CRISPR Therapeutics AG
+                          └ Zug
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    IPWR    Ideal Power Inc.
+                          └ Austin, TX
+  2026-06-04  8-K    CRSP    CRISPR Therapeutics AG
+                          └ Zug
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  6-K    HKIT    HiTek Global Inc.
+                          └ Xiamen, Fujian Province, F4
+  2026-06-04  8-K    LIXT    LIXTE BIOTECHNOLOGY HOLDINGS, INC.
+                          └ Boca Raton, FL
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    CLMB    Climb Global Solutions, Inc.
+                          └ Eatontown, NJ
+  2026-06-04  8-K    SRPT    Sarepta Therapeutics, Inc.
+                          └ Cambridge, MA
+  2026-06-04  8-K    HGV     Hilton Grand Vacations Inc.
+                          └ Orlando, FL
+  2026-06-04  8-K    RGCO    RGC RESOURCES INC
+                          └ Roanoke, VA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    CNMD    CONMED Corp
+                          └ Largo, FL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  8-K    SNDX    Syndax Pharmaceuticals Inc
+                          └ New York, NY
+  2026-06-04  8-K    ------  SOUTHERN POWER CO
+                          └ Atlanta, GA
+  2026-06-04  6-K/A  PICS    PicS N.V.
+                          └ Amstelveen
+  2026-06-04  8-K    GT      GOODYEAR TIRE & RUBBER CO /OH/
+                          └ Akron, OH
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    MRSH    MARSH & MCLENNAN COMPANIES, INC.
+                          └ New York, NY
+  2026-06-04  8-K    SRPT    Sarepta Therapeutics, Inc.
+                          └ Cambridge, MA
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  6-K    HKIT    HiTek Global Inc.
+                          └ Xiamen, Fujian Province, F4
+  2026-06-04  8-K    KURA    Kura Oncology, Inc.
+                          └ San Diego, CA
+  2026-06-04  8-K    ------  NRX Pharmaceuticals, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    GRND    Grindr Inc.
+                          └ West Hollywood, CA
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    CMPR    CIMPRESS plc
+                          └ Dundalk, County Louth, L2
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    JAN     Janus Living, Inc.
+                          └ Denver, CO
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+
+[우주] 50건
+--------------------------------------------------
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    DRCT    Direct Digital Holdings, Inc.
+                          └ Houston, TX
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  6-K    ------  GRUPO TELEVISA, S.A.B.
+                          └ Mexico, D.f.
+  2026-06-04  8-K    ------  Satellogic Inc.
+                          └ Davidson, NC
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K/A  YSS     York Space Systems Inc.
+                          └ Greenwood Village, CO
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  8-K    ------  ExchangeRight Income Fund
+                          └ Pasadena, CA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    CLMB    Climb Global Solutions, Inc.
+                          └ Eatontown, NJ
+  2026-06-04  8-K    CLMB    Climb Global Solutions, Inc.
+                          └ Eatontown, NJ
+  2026-06-04  8-K    HNVR    Hanover Bancorp, Inc. /MD
+                          └ Mineola, NY
+  2026-06-04  6-K    ------  Prenetics Global Ltd
+                          └ Quarry Bay, K3
+  2026-06-04  8-K    ANTX    AN2 Therapeutics, Inc.
+                          └ Menlo Park, CA
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  8-K    RMSL    RemSleep Holdings Inc.
+                          └ Clearwater, FL
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    BYSI    BeyondSpring Inc.
+                          └ Florham Park, NJ
+  2026-06-04  8-K    LULU    lululemon athletica inc.
+                          └ Vancouver, A1
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  PRUDENTIAL FINANCIAL INC
+                          └ Newark, NJ
+  2026-06-04  6-K    WPRT    WESTPORT FUEL SYSTEMS INC.
+                          └ Vancouver, A1
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    BGS     B&G Foods, Inc.
+                          └ Parsippany, NJ
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    HIW     HIGHWOODS PROPERTIES, INC.
+                          └ Raleigh, NC
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+
+[EV자율주행] 11건
+--------------------------------------------------
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  6-K    ELBM    Electra Battery Materials Corp
+                          └ Toronto
+  2026-06-04  6-K    SUUN    POWERBANK Corp
+                          └ Toronto
+  2026-06-04  6-K    ELBM    Electra Battery Materials Corp
+                          └ Toronto
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    AGX     ARGAN INC
+                          └ Arlington, VA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  8-K    ------  Cycurion, Inc.
+                          └ Mclean, VA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+
+[건설인프라] 100건
+--------------------------------------------------
+  2026-06-04  8-K    SMID    SMITH MIDLAND CORP
+                          └ Midland, VA
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  6-K    SUUN    POWERBANK Corp
+                          └ Toronto
+  2026-06-04  8-K    FNGR    FingerMotion, Inc.
+                          └ Singapore, U0
+  2026-06-04  6-K    IPX     IPERIONX Ltd
+                          └ South Boston, VA
+  2026-06-04  8-K    BBCP    Concrete Pumping Holdings, Inc.
+                          └ Thornton, CO
+  2026-06-04  8-K    AGX     ARGAN INC
+                          └ Arlington, VA
+  2026-06-04  8-K/A  NXST    NEXSTAR MEDIA GROUP, INC.
+                          └ Irving, TX
+  2026-06-04  8-K    AMCI    AMC Robotics Corp
+                          └ New York, NY
+  2026-06-04  8-K    BYSI    BeyondSpring Inc.
+                          └ Florham Park, NJ
+  2026-06-04  6-K    ELBM    Electra Battery Materials Corp
+                          └ Toronto
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    PBHC    Pathfinder Bancorp, Inc.
+                          └ Oswego, NY
+  2026-06-04  8-K    TTC     TORO CO
+                          └ Bloomington, MN
+  2026-06-04  8-K    CNR     Core Natural Resources, Inc.
+                          └ Canonsburg, PA
+  2026-06-04  8-K    REZI    RESIDEO TECHNOLOGIES, INC.
+                          └ Austin, TX
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    IPW     iPower Inc.
+                          └ Rancho Cucamonga, CA
+  2026-06-04  8-K    ZSQR    Z Squared Inc.
+                          └ Fort Lauderdale, FL
+  2026-06-04  8-K    KNX     Knight-Swift Transportation Holdings Inc.
+                          └ Phoenix, AZ
+  2026-06-04  6-K    SUPX    SuperX AI Technology Ltd
+                          └ Singapore
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  Wisekey International Holding S.A.
+                          └ Geneva 15, V8
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    ------  Stonepeak-Plus Infrastructure Fund LP
+                          └ New York, NY
+  2026-06-04  8-K    DVLT    Datavault AI Inc.
+                          └ Beaverton, OR
+  2026-06-04  8-K    ------  Satellogic Inc.
+                          └ Davidson, NC
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    KEEL    Keel Infrastructure Corp.
+                          └ New York, NY
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  PPL Corp
+                          └ Allentown, PA
+  2026-06-04  8-K    ORBS    Eightco Holdings Inc.
+                          └ Easton, PA
+  2026-06-04  8-K    SBMT    SILVER BOW MINING CORP.
+                          └ Butte, MT
+  2026-06-04  6-K    SOPH    SOPHiA GENETICS SA
+                          └ Rolle, V8
+  2026-06-04  8-K    ------  Netcapital Inc.
+                          └ Boston, MA
+  2026-06-04  8-K    ------  KIDZ AI Inc.
+                          └ Dover, DE
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    AEVA    Aeva Technologies, Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    CMCO    COLUMBUS MCKINNON CORP
+                          └ Charlotte, NC
+  2026-06-04  8-K    OESX    ORION ENERGY SYSTEMS, INC.
+                          └ Manitowoc, WI
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  6-K    ------  NewGenIvf Group Ltd
+                          └ Bangkok, W1
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    GMTL    Guardian Metal Resources PLC
+                          └ London, X0
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    XE      X-Energy, Inc.
+                          └ Wilmington, DE
+  2026-06-04  8-K    GAME    GameSquare Holdings, Inc.
+                          └ Frisco, TX
+  2026-06-04  8-K    ------  Alphabet Inc.
+                          └ Mountain View, CA
+  2026-06-04  8-K    CIEN    CIENA CORP
+                          └ Hanover, MD
+  2026-06-04  6-K    DSGX    DESCARTES SYSTEMS GROUP INC
+                          └ Waterloo, A6
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  8-K    IPW     iPower Inc.
+                          └ Rancho Cucamonga, CA
+  2026-06-04  8-K    PL      Planet Labs PBC
+                          └ San Francisco, CA
+  2026-06-04  6-K    CLIK    Click Holdings Ltd.
+                          └ Tsim Sha Tsui, Kowloon, K3
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    NRDE    NU RIDE INC.
+                          └ New York, NY
+  2026-06-04  6-K    LAES    SEALSQ Corp
+                          └ Cointrin, V8
+  2026-06-04  6-K    ------  K Wave Media Ltd.
+                          └ Grand Cayman
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    WBD     Warner Bros. Discovery, Inc.
+                          └ New York, NY
+  2026-06-04  8-K    ------  ConnectM Technology Solutions, Inc.
+                          └ Marlborough, MA
+  2026-06-04  8-K    HUT     Hut 8 Corp.
+                          └ Miami, FL
+  2026-06-04  8-K    USBC    USBC, Inc.
+                          └ Reno, NV
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  6-K    AYA     Aya Gold & Silver Inc.
+                          └ Mont-royal, Quebec, Z4
+  2026-06-04  8-K    ------  Bio Green Med Solution, Inc.
+                          └ Berkeley Heights, NJ
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    MSW     Ming Shing Group Holdings Ltd
+                          └ Kowloon
+  2026-06-04  6-K    ------  TRANSALTA CORP
+                          └ Calgary, A0
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  8-K    TTI     TETRA TECHNOLOGIES INC
+                          └ Spring, TX
+  2026-06-04  6-K    WFG     WEST FRASER TIMBER CO., LTD
+                          └ Vancouver, A1
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  8-K    ------  BBCMS Mortgage Trust 2026-5C42
+                          └ New York, NY
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  6-K    ORLA    Orla Mining Ltd.
+                          └ Vancouver
+  2026-06-04  8-K    COO     COOPER COMPANIES, INC.
+                          └ San Ramon, CA
+  2026-06-04  8-K    DOCU    DOCUSIGN, INC.
+                          └ San Francisco, CA
+  2026-06-04  6-K    BYAH    Park Ha Biological Technology Co., Ltd.
+                          └ Wuxi City, F4
+  2026-06-04  8-K    ------  OFFICE PROPERTIES INCOME TRUST
+                          └ Newton, MA
+  2026-06-04  8-K    ------  Aimei Health Technology Co., Ltd.
+                          └ New York, NY
+  2026-06-04  8-K    USEG    BIG SKY INDUSTRIAL INC.
+                          └ Houston, TX
+  2026-06-04  8-K    MYGN    MYRIAD GENETICS INC
+                          └ Salt Lake City, UT
+  2026-06-04  6-K    HXHX    Haoxin Holdings Ltd
+                          └ Ningbo, F4
+  2026-06-04  8-K    AADX    Applied Aerospace & Defense, Inc.
+                          └ Huntsville, AL
+  2026-06-04  8-K    TCNNF   Trulieve Cannabis Corp.
+                          └ Tallahassee, FL
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    IMNN    Imunon, Inc.
+                          └ Lawrenceville, NJ
+  2026-06-04  8-K    LPCN    Lipocine Inc.
+                          └ Salt Lake City, X1
+
+[운송물류] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[유틸리티] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[부동산리츠] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[소재화학] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[중국테크] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[인도] 0건
+--------------------------------------------------
+  (공시 없음)
+
+[신흥국] 0건
+--------------------------------------------------
+  (공시 없음)
